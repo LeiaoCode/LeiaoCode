@@ -1,20 +1,10 @@
-<div align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiaoCode&show_icons=true&theme=radical&layout=compact" alt="Top Langs" width="400" height="200"/>
-
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=LeiaoCode&show_icons=true&include_all_commits=true&count_private=true&bg_color=2E3440&text_color=ffffff" alt="LeiaoCode's GitHub stats" width="400" height="200" />
-
-  <!-- Profile Summary -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeiaoCode&theme=radical" alt="LeiaoCode's Profile Summary" width="400" height="200"/>
-
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LeiaoCode&theme=cobalt" alt="GitHub Streak" width="400" height="200" />
-</div>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeiaoCode&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LeiaoCode&theme=github_dark&utcOffset=8) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=LeiaoCode&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LeiaoCode&theme=github_dark) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LeiaoCode&theme=github_dark)
 
 ---
-
 # 🧑🏻‍🚀 LeiCoder Hacker & High-Tech Innovator
 
 🚀 **Passionate about Web3, AI, IoT, and blockchain** — pioneering the next generation of decentralized systems, intelligent automation, and connected ecosystems.
