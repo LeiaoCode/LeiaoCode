@@ -1,22 +1,23 @@
 
-<img align="right"  src="https://github-readme-stats.vercel.app/api?username=LeiaoCode&show_icons=true&include_all_commits=true&count_private=true&bg_color=00000000" alt="LeiaoCode's GitHub stats" />
-
-
-
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeiaoCode&show_icons=true&theme=cobalt&layout=compact" alt="Top Langs" />
 
-🧑🏻‍🚀 LeiCoder hacker
 
-🚀 **High-Tech Innovator**
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LeiaoCode&theme=github" alt="LeiaoCode's Profile Summary" />
 
-🔗 Passionate about **Web3**, **AI**, **IoT**, and **blockchain** — pioneering the next generation of decentralized systems, intelligent automation, and connected ecosystems.
 
-📘 Exploring **artificial intelligence** to redefine problem-solving and enhance the capabilities of autonomous systems.
 
-⚡ Developing **ConnectIQ**, an advanced platform that seamlessly integrates **IoT** devices with **AI** to drive smarter, data-driven decision-making.
 
-🌍 Actively pushing the boundaries of **blockchain** technology to create more secure, transparent, and decentralized solutions for global challenges.
+
+# 🧑🏻‍🚀 LeiCoder Hacker & High-Tech Innovator
+
+🚀 **Passionate about Web3, AI, IoT, and blockchain** — pioneering the next generation of decentralized systems, intelligent automation, and connected ecosystems.
+
+📘 **Exploring** artificial intelligence to redefine problem-solving and enhance the capabilities of autonomous systems.
+
+⚡ **Developing** **ConnectIQ**, an advanced platform that seamlessly integrates **IoT** devices with **AI** to drive smarter, data-driven decision-making.
+
+🌍 **Pushing the boundaries of blockchain** technology to create more secure, transparent, and decentralized solutions for global challenges.
+
 
 
 [![](https://img.shields.io/badge/C-000000?style=flat-square&logo=C&logoColor=White)](#)
